@@ -23,5 +23,4 @@ def load_data(airports_file, routes_file):
     return airports, routes
 
 def preprocess_data(airports, routes):
-    # Additional preprocessing steps can be added here if needed
     return airports, routes
